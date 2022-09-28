@@ -1,0 +1,561 @@
+<?xml version="1.0" ?>
+<Fiats>
+	<Fiat>
+		<Id value="2781"/>
+		<Name value="United States Dollar"/>
+		<Sign value="$"/>
+		<Symbol value="USD"/>
+	</Fiat>
+	<Fiat>
+		<Id value="2782"/>
+		<Name value="Australian Dollar"/>
+		<Sign value="$"/>
+		<Symbol value="AUD"/>
+	</Fiat>
+	<Fiat>
+		<Id value="2783"/>
+		<Name value="Brazilian Real"/>
+		<Sign value="R$"/>
+		<Symbol value="BRL"/>
+	</Fiat>
+	<Fiat>
+		<Id value="2784"/>
+		<Name value="Canadian Dollar"/>
+		<Sign value="$"/>
+		<Symbol value="CAD"/>
+	</Fiat>
+	<Fiat>
+		<Id value="2785"/>
+		<Name value="Swiss Franc"/>
+		<Sign value="Fr"/>
+		<Symbol value="CHF"/>
+	</Fiat>
+	<Fiat>
+		<Id value="2786"/>
+		<Name value="Chilean Peso"/>
+		<Sign value="$"/>
+		<Symbol value="CLP"/>
+	</Fiat>
+	<Fiat>
+		<Id value="2787"/>
+		<Name value="Chinese Yuan"/>
+		<Sign value="¥"/>
+		<Symbol value="CNY"/>
+	</Fiat>
+	<Fiat>
+		<Id value="2788"/>
+		<Name value="Czech Koruna"/>
+		<Sign value="Kč"/>
+		<Symbol value="CZK"/>
+	</Fiat>
+	<Fiat>
+		<Id value="2789"/>
+		<Name value="Danish Krone"/>
+		<Sign value="kr"/>
+		<Symbol value="DKK"/>
+	</Fiat>
+	<Fiat>
+		<Id value="2790"/>
+		<Name value="Euro"/>
+		<Sign value="€"/>
+		<Symbol value="EUR"/>
+	</Fiat>
+	<Fiat>
+		<Id value="2791"/>
+		<Name value="Pound Sterling"/>
+		<Sign value="£"/>
+		<Symbol value="GBP"/>
+	</Fiat>
+	<Fiat>
+		<Id value="2792"/>
+		<Name value="Hong Kong Dollar"/>
+		<Sign value="$"/>
+		<Symbol value="HKD"/>
+	</Fiat>
+	<Fiat>
+		<Id value="2793"/>
+		<Name value="Hungarian Forint"/>
+		<Sign value="Ft"/>
+		<Symbol value="HUF"/>
+	</Fiat>
+	<Fiat>
+		<Id value="2794"/>
+		<Name value="Indonesian Rupiah"/>
+		<Sign value="Rp"/>
+		<Symbol value="IDR"/>
+	</Fiat>
+	<Fiat>
+		<Id value="2795"/>
+		<Name value="Israeli New Shekel"/>
+		<Sign value="₪"/>
+		<Symbol value="ILS"/>
+	</Fiat>
+	<Fiat>
+		<Id value="2796"/>
+		<Name value="Indian Rupee"/>
+		<Sign value="₹"/>
+		<Symbol value="INR"/>
+	</Fiat>
+	<Fiat>
+		<Id value="2797"/>
+		<Name value="Japanese Yen"/>
+		<Sign value="¥"/>
+		<Symbol value="JPY"/>
+	</Fiat>
+	<Fiat>
+		<Id value="2798"/>
+		<Name value="South Korean Won"/>
+		<Sign value="₩"/>
+		<Symbol value="KRW"/>
+	</Fiat>
+	<Fiat>
+		<Id value="2799"/>
+		<Name value="Mexican Peso"/>
+		<Sign value="$"/>
+		<Symbol value="MXN"/>
+	</Fiat>
+	<Fiat>
+		<Id value="2800"/>
+		<Name value="Malaysian Ringgit"/>
+		<Sign value="RM"/>
+		<Symbol value="MYR"/>
+	</Fiat>
+	<Fiat>
+		<Id value="2801"/>
+		<Name value="Norwegian Krone"/>
+		<Sign value="kr"/>
+		<Symbol value="NOK"/>
+	</Fiat>
+	<Fiat>
+		<Id value="2802"/>
+		<Name value="New Zealand Dollar"/>
+		<Sign value="$"/>
+		<Symbol value="NZD"/>
+	</Fiat>
+	<Fiat>
+		<Id value="2803"/>
+		<Name value="Philippine Peso"/>
+		<Sign value="₱"/>
+		<Symbol value="PHP"/>
+	</Fiat>
+	<Fiat>
+		<Id value="2804"/>
+		<Name value="Pakistani Rupee"/>
+		<Sign value="₨"/>
+		<Symbol value="PKR"/>
+	</Fiat>
+	<Fiat>
+		<Id value="2805"/>
+		<Name value="Polish Złoty"/>
+		<Sign value="zł"/>
+		<Symbol value="PLN"/>
+	</Fiat>
+	<Fiat>
+		<Id value="2806"/>
+		<Name value="Russian Ruble"/>
+		<Sign value="₽"/>
+		<Symbol value="RUB"/>
+	</Fiat>
+	<Fiat>
+		<Id value="2807"/>
+		<Name value="Swedish Krona"/>
+		<Sign value="kr"/>
+		<Symbol value="SEK"/>
+	</Fiat>
+	<Fiat>
+		<Id value="2808"/>
+		<Name value="Singapore Dollar"/>
+		<Sign value="S$"/>
+		<Symbol value="SGD"/>
+	</Fiat>
+	<Fiat>
+		<Id value="2809"/>
+		<Name value="Thai Baht"/>
+		<Sign value="฿"/>
+		<Symbol value="THB"/>
+	</Fiat>
+	<Fiat>
+		<Id value="2810"/>
+		<Name value="Turkish Lira"/>
+		<Sign value="₺"/>
+		<Symbol value="TRY"/>
+	</Fiat>
+	<Fiat>
+		<Id value="2811"/>
+		<Name value="New Taiwan Dollar"/>
+		<Sign value="NT$"/>
+		<Symbol value="TWD"/>
+	</Fiat>
+	<Fiat>
+		<Id value="2812"/>
+		<Name value="South African Rand"/>
+		<Sign value="R"/>
+		<Symbol value="ZAR"/>
+	</Fiat>
+	<Fiat>
+		<Id value="2813"/>
+		<Name value="United Arab Emirates Dirham"/>
+		<Sign value="د.إ"/>
+		<Symbol value="AED"/>
+	</Fiat>
+	<Fiat>
+		<Id value="2814"/>
+		<Name value="Bulgarian Lev"/>
+		<Sign value="лв"/>
+		<Symbol value="BGN"/>
+	</Fiat>
+	<Fiat>
+		<Id value="2815"/>
+		<Name value="Croatian Kuna"/>
+		<Sign value="kn"/>
+		<Symbol value="HRK"/>
+	</Fiat>
+	<Fiat>
+		<Id value="2816"/>
+		<Name value="Mauritian Rupee"/>
+		<Sign value="₨"/>
+		<Symbol value="MUR"/>
+	</Fiat>
+	<Fiat>
+		<Id value="2817"/>
+		<Name value="Romanian Leu"/>
+		<Sign value="lei"/>
+		<Symbol value="RON"/>
+	</Fiat>
+	<Fiat>
+		<Id value="2818"/>
+		<Name value="Icelandic Króna"/>
+		<Sign value="kr"/>
+		<Symbol value="ISK"/>
+	</Fiat>
+	<Fiat>
+		<Id value="2819"/>
+		<Name value="Nigerian Naira"/>
+		<Sign value="₦"/>
+		<Symbol value="NGN"/>
+	</Fiat>
+	<Fiat>
+		<Id value="2820"/>
+		<Name value="Colombian Peso"/>
+		<Sign value="$"/>
+		<Symbol value="COP"/>
+	</Fiat>
+	<Fiat>
+		<Id value="2821"/>
+		<Name value="Argentine Peso"/>
+		<Sign value="$"/>
+		<Symbol value="ARS"/>
+	</Fiat>
+	<Fiat>
+		<Id value="2822"/>
+		<Name value="Peruvian Sol"/>
+		<Sign value="S/."/>
+		<Symbol value="PEN"/>
+	</Fiat>
+	<Fiat>
+		<Id value="2823"/>
+		<Name value="Vietnamese Dong"/>
+		<Sign value="₫"/>
+		<Symbol value="VND"/>
+	</Fiat>
+	<Fiat>
+		<Id value="2824"/>
+		<Name value="Ukrainian Hryvnia"/>
+		<Sign value="₴"/>
+		<Symbol value="UAH"/>
+	</Fiat>
+	<Fiat>
+		<Id value="2832"/>
+		<Name value="Bolivian Boliviano"/>
+		<Sign value="Bs."/>
+		<Symbol value="BOB"/>
+	</Fiat>
+	<Fiat>
+		<Id value="3526"/>
+		<Name value="Albanian Lek"/>
+		<Sign value="L"/>
+		<Symbol value="ALL"/>
+	</Fiat>
+	<Fiat>
+		<Id value="3527"/>
+		<Name value="Armenian Dram"/>
+		<Sign value="֏"/>
+		<Symbol value="AMD"/>
+	</Fiat>
+	<Fiat>
+		<Id value="3528"/>
+		<Name value="Azerbaijani Manat"/>
+		<Sign value="₼"/>
+		<Symbol value="AZN"/>
+	</Fiat>
+	<Fiat>
+		<Id value="3529"/>
+		<Name value="Bosnia-Herzegovina Convertible Mark"/>
+		<Sign value="KM"/>
+		<Symbol value="BAM"/>
+	</Fiat>
+	<Fiat>
+		<Id value="3530"/>
+		<Name value="Bangladeshi Taka"/>
+		<Sign value="৳"/>
+		<Symbol value="BDT"/>
+	</Fiat>
+	<Fiat>
+		<Id value="3531"/>
+		<Name value="Bahraini Dinar"/>
+		<Sign value=".د.ب"/>
+		<Symbol value="BHD"/>
+	</Fiat>
+	<Fiat>
+		<Id value="3532"/>
+		<Name value="Bermudan Dollar"/>
+		<Sign value="$"/>
+		<Symbol value="BMD"/>
+	</Fiat>
+	<Fiat>
+		<Id value="3533"/>
+		<Name value="Belarusian Ruble"/>
+		<Sign value="Br"/>
+		<Symbol value="BYN"/>
+	</Fiat>
+	<Fiat>
+		<Id value="3534"/>
+		<Name value="Costa Rican Colón"/>
+		<Sign value="₡"/>
+		<Symbol value="CRC"/>
+	</Fiat>
+	<Fiat>
+		<Id value="3535"/>
+		<Name value="Cuban Peso"/>
+		<Sign value="$"/>
+		<Symbol value="CUP"/>
+	</Fiat>
+	<Fiat>
+		<Id value="3536"/>
+		<Name value="Dominican Peso"/>
+		<Sign value="$"/>
+		<Symbol value="DOP"/>
+	</Fiat>
+	<Fiat>
+		<Id value="3537"/>
+		<Name value="Algerian Dinar"/>
+		<Sign value="د.ج"/>
+		<Symbol value="DZD"/>
+	</Fiat>
+	<Fiat>
+		<Id value="3538"/>
+		<Name value="Egyptian Pound"/>
+		<Sign value="£"/>
+		<Symbol value="EGP"/>
+	</Fiat>
+	<Fiat>
+		<Id value="3539"/>
+		<Name value="Georgian Lari"/>
+		<Sign value="₾"/>
+		<Symbol value="GEL"/>
+	</Fiat>
+	<Fiat>
+		<Id value="3540"/>
+		<Name value="Ghanaian Cedi"/>
+		<Sign value="₵"/>
+		<Symbol value="GHS"/>
+	</Fiat>
+	<Fiat>
+		<Id value="3541"/>
+		<Name value="Guatemalan Quetzal"/>
+		<Sign value="Q"/>
+		<Symbol value="GTQ"/>
+	</Fiat>
+	<Fiat>
+		<Id value="3542"/>
+		<Name value="Honduran Lempira"/>
+		<Sign value="L"/>
+		<Symbol value="HNL"/>
+	</Fiat>
+	<Fiat>
+		<Id value="3543"/>
+		<Name value="Iraqi Dinar"/>
+		<Sign value="ع.د"/>
+		<Symbol value="IQD"/>
+	</Fiat>
+	<Fiat>
+		<Id value="3544"/>
+		<Name value="Iranian Rial"/>
+		<Sign value="﷼"/>
+		<Symbol value="IRR"/>
+	</Fiat>
+	<Fiat>
+		<Id value="3545"/>
+		<Name value="Jamaican Dollar"/>
+		<Sign value="$"/>
+		<Symbol value="JMD"/>
+	</Fiat>
+	<Fiat>
+		<Id value="3546"/>
+		<Name value="Jordanian Dinar"/>
+		<Sign value="د.ا"/>
+		<Symbol value="JOD"/>
+	</Fiat>
+	<Fiat>
+		<Id value="3547"/>
+		<Name value="Kenyan Shilling"/>
+		<Sign value="Sh"/>
+		<Symbol value="KES"/>
+	</Fiat>
+	<Fiat>
+		<Id value="3548"/>
+		<Name value="Kyrgystani Som"/>
+		<Sign value="с"/>
+		<Symbol value="KGS"/>
+	</Fiat>
+	<Fiat>
+		<Id value="3549"/>
+		<Name value="Cambodian Riel"/>
+		<Sign value="៛"/>
+		<Symbol value="KHR"/>
+	</Fiat>
+	<Fiat>
+		<Id value="3550"/>
+		<Name value="Kuwaiti Dinar"/>
+		<Sign value="د.ك"/>
+		<Symbol value="KWD"/>
+	</Fiat>
+	<Fiat>
+		<Id value="3551"/>
+		<Name value="Kazakhstani Tenge"/>
+		<Sign value="₸"/>
+		<Symbol value="KZT"/>
+	</Fiat>
+	<Fiat>
+		<Id value="3552"/>
+		<Name value="Lebanese Pound"/>
+		<Sign value="ل.ل"/>
+		<Symbol value="LBP"/>
+	</Fiat>
+	<Fiat>
+		<Id value="3553"/>
+		<Name value="Sri Lankan Rupee"/>
+		<Sign value="Rs"/>
+		<Symbol value="LKR"/>
+	</Fiat>
+	<Fiat>
+		<Id value="3554"/>
+		<Name value="Moroccan Dirham"/>
+		<Sign value="د.م."/>
+		<Symbol value="MAD"/>
+	</Fiat>
+	<Fiat>
+		<Id value="3555"/>
+		<Name value="Moldovan Leu"/>
+		<Sign value="L"/>
+		<Symbol value="MDL"/>
+	</Fiat>
+	<Fiat>
+		<Id value="3556"/>
+		<Name value="Macedonian Denar"/>
+		<Sign value="ден"/>
+		<Symbol value="MKD"/>
+	</Fiat>
+	<Fiat>
+		<Id value="3557"/>
+		<Name value="Myanma Kyat"/>
+		<Sign value="Ks"/>
+		<Symbol value="MMK"/>
+	</Fiat>
+	<Fiat>
+		<Id value="3558"/>
+		<Name value="Mongolian Tugrik"/>
+		<Sign value="₮"/>
+		<Symbol value="MNT"/>
+	</Fiat>
+	<Fiat>
+		<Id value="3559"/>
+		<Name value="Namibian Dollar"/>
+		<Sign value="$"/>
+		<Symbol value="NAD"/>
+	</Fiat>
+	<Fiat>
+		<Id value="3560"/>
+		<Name value="Nicaraguan Córdoba"/>
+		<Sign value="C$"/>
+		<Symbol value="NIO"/>
+	</Fiat>
+	<Fiat>
+		<Id value="3561"/>
+		<Name value="Nepalese Rupee"/>
+		<Sign value="₨"/>
+		<Symbol value="NPR"/>
+	</Fiat>
+	<Fiat>
+		<Id value="3562"/>
+		<Name value="Omani Rial"/>
+		<Sign value="ر.ع."/>
+		<Symbol value="OMR"/>
+	</Fiat>
+	<Fiat>
+		<Id value="3563"/>
+		<Name value="Panamanian Balboa"/>
+		<Sign value="B/."/>
+		<Symbol value="PAB"/>
+	</Fiat>
+	<Fiat>
+		<Id value="3564"/>
+		<Name value="Qatari Rial"/>
+		<Sign value="ر.ق"/>
+		<Symbol value="QAR"/>
+	</Fiat>
+	<Fiat>
+		<Id value="3565"/>
+		<Name value="Serbian Dinar"/>
+		<Sign value="дин."/>
+		<Symbol value="RSD"/>
+	</Fiat>
+	<Fiat>
+		<Id value="3566"/>
+		<Name value="Saudi Riyal"/>
+		<Sign value="ر.س"/>
+		<Symbol value="SAR"/>
+	</Fiat>
+	<Fiat>
+		<Id value="3567"/>
+		<Name value="South Sudanese Pound"/>
+		<Sign value="£"/>
+		<Symbol value="SSP"/>
+	</Fiat>
+	<Fiat>
+		<Id value="3568"/>
+		<Name value="Tunisian Dinar"/>
+		<Sign value="د.ت"/>
+		<Symbol value="TND"/>
+	</Fiat>
+	<Fiat>
+		<Id value="3569"/>
+		<Name value="Trinidad and Tobago Dollar"/>
+		<Sign value="$"/>
+		<Symbol value="TTD"/>
+	</Fiat>
+	<Fiat>
+		<Id value="3570"/>
+		<Name value="Ugandan Shilling"/>
+		<Sign value="Sh"/>
+		<Symbol value="UGX"/>
+	</Fiat>
+	<Fiat>
+		<Id value="3571"/>
+		<Name value="Uruguayan Peso"/>
+		<Sign value="$"/>
+		<Symbol value="UYU"/>
+	</Fiat>
+	<Fiat>
+		<Id value="3572"/>
+		<Name value="Uzbekistan Som"/>
+		<Sign value="so'm"/>
+		<Symbol value="UZS"/>
+	</Fiat>
+	<Fiat>
+		<Id value="3573"/>
+		<Name value="Sovereign Bolivar"/>
+		<Sign value="Bs."/>
+		<Symbol value="VES"/>
+	</Fiat>
+</Fiats>

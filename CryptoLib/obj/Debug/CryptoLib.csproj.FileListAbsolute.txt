@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\CryptoExchanger\CryptoLib\obj\Debug\CryptoLib.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\CryptoExchanger\CryptoLib\obj\Debug\CryptoLib.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CryptoExchanger\CryptoLib\bin\Debug\CryptoLib.dll
+C:\Users\Admin\source\repos\CryptoExchanger\CryptoLib\bin\Debug\CryptoLib.pdb
+C:\Users\Admin\source\repos\CryptoExchanger\CryptoLib\obj\Debug\CryptoLib.dll
+C:\Users\Admin\source\repos\CryptoExchanger\CryptoLib\obj\Debug\CryptoLib.pdb

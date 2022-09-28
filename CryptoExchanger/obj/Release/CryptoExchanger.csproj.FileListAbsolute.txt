@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\CryptoExchanger\CryptoExchanger\bin\Release\CryptoExchanger.exe.config
+C:\Users\Admin\source\repos\CryptoExchanger\CryptoExchanger\bin\Release\CryptoExchanger.exe
+C:\Users\Admin\source\repos\CryptoExchanger\CryptoExchanger\bin\Release\CryptoExchanger.pdb
+C:\Users\Admin\source\repos\CryptoExchanger\CryptoExchanger\bin\Release\Guna.UI2.dll
+C:\Users\Admin\source\repos\CryptoExchanger\CryptoExchanger\obj\Release\CryptoExchanger.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\CryptoExchanger\CryptoExchanger\obj\Release\CryptoExchanger.Form1.resources
+C:\Users\Admin\source\repos\CryptoExchanger\CryptoExchanger\obj\Release\CryptoExchanger.Properties.Resources.resources
+C:\Users\Admin\source\repos\CryptoExchanger\CryptoExchanger\obj\Release\CryptoExchanger.UcCrypto.resources
+C:\Users\Admin\source\repos\CryptoExchanger\CryptoExchanger\obj\Release\CryptoExchanger.UcHome.resources
+C:\Users\Admin\source\repos\CryptoExchanger\CryptoExchanger\obj\Release\CryptoExchanger.UserHomeFiat.resources
+C:\Users\Admin\source\repos\CryptoExchanger\CryptoExchanger\obj\Release\CryptoExchanger.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\CryptoExchanger\CryptoExchanger\obj\Release\CryptoExchanger.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CryptoExchanger\CryptoExchanger\obj\Release\CryptoExchanger.csproj.CopyComplete
+C:\Users\Admin\source\repos\CryptoExchanger\CryptoExchanger\obj\Release\CryptoExchanger.exe
+C:\Users\Admin\source\repos\CryptoExchanger\CryptoExchanger\obj\Release\CryptoExchanger.pdb
